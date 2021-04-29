@@ -1,0 +1,38 @@
+body {
+background-color: FF9B00;
+/* border-radius: 10px; */
+}
+.contact{
+    margin-top: 10%;
+}
+.col-md-3 {
+background-color: orange;
+padding: 15px;
+text-align: left;
+vertical-align: ;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.row {
+    margin-top: 20px;
+}
+.h2 {
+    margin-bottom: 10%
+}
+.img {
+margin-bottom: 10%;
+}
+.btn-default {
+    background: #25274d;
+}
+.btn:hover {
+    background: #25274d;
+.btn:active {
+    background: #4d2525;
+}
+.form-label {
+    font-weight: 600;
+}

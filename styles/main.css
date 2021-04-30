@@ -9,7 +9,6 @@ background-color: FF9B00;
 background-color: orange;
 padding: 15px;
 text-align: left;
-vertical-align: ;
 border-top-left-radius: 10px;
 border-top-right-radius: 10px;
 border-bottom-left-radius: 10px;
@@ -30,7 +29,8 @@ margin-bottom: 10%;
 }
 .btn:hover {
     background: #25274d;
-.btn:active {
+
+.btn-default: active {
     background: #4d2525;
 }
 .form-label {
